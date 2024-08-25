@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Weather-app
+Weather App is a sleek, responsive application that provides real-time weather forecasts for any location worldwide. Whether you're planning your day or just curious about the weather, my app delivers up-to-date information on temperature, humidity, wind speed, and more. 
+>>>>>>> d34d3d3baad9adf1d8bf0ae61244a96d8f3754a6
